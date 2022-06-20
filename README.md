@@ -1,4 +1,4 @@
-Hi, my name is Rong Zhai, come from China. I'm Java Developer.
+Hi, my name is Rong Zhai,  working as Java Senior Developer.
 
 Some idea just send me email: zhairong1975@gmail.com
 
